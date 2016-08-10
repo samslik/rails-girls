@@ -1,3 +1,4 @@
+```
                                                                                   
 8 888888888o.            .8.           8 8888 8 8888           d888888o.          
 8 8888    `88.          .888.          8 8888 8 8888         .`8888:' `88.        
@@ -34,8 +35,8 @@
                                                                                   
                                                                                   
                                                                                   
-                                                                                  
-                                                                                  
+```
+
 Moja pierwsza strona internetowa
 
 Ćwiczę `HTML`a i jestem coraz lepsza.
