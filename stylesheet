@@ -1,0 +1,156 @@
+body {
+	background-color: white;
+	margin: 0;
+	font-family: 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+    letter-spacing: 1px;
+    line-height: 23px;
+    color: #390c00;
+}
+#container {
+    width: 960px;
+    margin: auto;
+}
+#header {
+    background-color: #d3360b;
+	font-size: 20px;
+    text-align: center;
+    height: 25px;
+	padding-top: 30px;
+    padding-bottom: 30px;
+}
+ul {
+     width: 960px;
+     margin: 0 auto;
+}
+ul a {
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: white;
+    font-weight: 300;
+    font-size: 16px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#header a:hover {
+    text-decoration: underline;
+}
+
+li {
+    display: inline;
+}
+#logo {
+    float: left;
+}
+body > img {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+
+#description {
+    width: 520px;
+    border-top: 4px solid #d3360b;
+    float: left;
+    border-bottom: 1px solid #eee;
+}
+
+#description h2 {
+    font-family: 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+    font-size: 23px;
+    font-weight: normal;
+}
+#description p {
+    font-size: 15px;
+    font-family: 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+    font-weight: normal;
+}
+
+#description p a {
+    text-decoration: none;
+    border-bottom: 1px #d3360b dotted;
+    color: #d3360b;
+    font-weight: bold;
+}
+#grey1, #grey2 {
+    width: 480px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: #eee;
+}
+#grey1 p, #grey2 p {
+    text-align: left;
+    letter-spacing: 0px;
+    width: 480px;
+    font-size: 20px;
+    margin: 0px;
+    line-height: 30px;
+}
+#grey1 p a, #grey2 p a {
+    font-weight: normal;
+}
+table {
+    float: right;
+    width: 340px;
+    border-top: 4px solid #d3360b;
+    border-collapse: collapse;
+    margin-bottom: 100px;
+}
+table, th, td {
+    border-bottom: 1px dotted #cccccc;
+}
+table h3 {
+    font-size: 21px;
+    color: #d3360b;
+    font-family: 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+table tr td a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+}
+table p {
+    margin-top: 0;
+    font-family: 'Helvetica Neue',Arial,'Liberation Sans',FreeSans,sans-serif;
+    font-weight: bold;
+    font-size: 14,7px;
+    margin-bottom: 20px;
+}
+th {
+    font-size: 23px;
+	text-align: left;
+	font-weight: normal;
+	padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+}
+#footer {
+    clear: both;
+    background-color: #F4F4F4;
+    height:134px;
+    padding: 40px;
+    text-align: center;
+    color: #666;
+    font-size: 15px;
+    margin: 0 auto;
+}
+#footer p {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#footer p a {
+    text-decoration: none;
+    border-bottom: 1px #111 dotted;
+    color: #111;
+}
+span {
+    letter-spacing: 10px;
+    font-size: 21px;
+    font-weight: bold;
+}
